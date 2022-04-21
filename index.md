@@ -1,14 +1,3 @@
-# hello
-## world
+# BLOG
 
-* list
-* list2
-
-```elixir
-
-defmodule Name do
-    def call do
-        "Hello"
-    end
-end
-```
+[2022/04/22-Hello](./2022/04/22-Hello.md)
